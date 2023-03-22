@@ -11,3 +11,4 @@
     file:
       path: /tmp/test.txt
       state: touch
+      mode: 0644
