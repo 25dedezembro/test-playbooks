@@ -11,4 +11,3 @@
     file:
       path: /tmp/test.txt
       state: touch
-      mode: u=rw,g=r,o=r(base)
